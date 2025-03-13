@@ -1,6 +1,7 @@
 # tmc2240-pcb
 tmc2240-pcb, lceda, 3d printer driver.
 
+![](https://github.com/wybliw/tmc2240-pcb/blob/main/tmc2240-pic.png)
 
 在MKS怪兽8主板上使用最新klipper固件，驱动设置SPI和UART模式测试OK。
 
