@@ -3,6 +3,8 @@ tmc2240-pcb, lceda, 3d printer driver.
 
 ![](https://github.com/wybliw/tmc2240-pcb/blob/main/tmc2240-pic.png)
 
+LCEDA url: https://oshwhub.com/wybliw/tmc2240-qu-dong
+
 在MKS怪兽8主板上使用最新klipper固件，驱动设置SPI和UART模式测试OK。
 
 切换UART模式：焊接RUEN电阻，将RCS电阻换到电阻RUT上。
