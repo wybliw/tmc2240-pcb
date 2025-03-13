@@ -1,7 +1,9 @@
 # tmc2240-pcb
 tmc2240-pcb, lceda, 3d printer driver.
 
-![](https://github.com/wybliw/tmc2240-pcb/blob/main/tmc2240-pic.png)
+![](https://github.com/wybliw/tmc2240-pcb/blob/main/tmc2240-p2.png)
+
+![](https://github.com/wybliw/tmc2240-pcb/blob/main/tmc2240-pic.png) 
 
 LCEDA url: https://oshwhub.com/wybliw/tmc2240-qu-dong
 
